@@ -3,12 +3,13 @@
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 👯 I have successfully worked on production level projects regarding android, web and backend.
-- 🌱 I’m currently perfecting my skills with ReactJS and Android MVVM Architecture.
-- 👯 I’m looking to collaborate on opensource and group projects.
+-
 <!-- - Usesless Stats:
+ 👯 I have successfully worked on production level projects regarding android, web and backend.
+currently perfecting my skills with ReactJS and Android MVVM Architecture.
+- 👯 I’m looking to collaborate on opensource and group projects.
 - 🏅 Number of times I was asked to hack a FB : 3
-- 📱  Number of times I was approached with an app idea: 7 
+
 -->
  ### Connect with me:
 
