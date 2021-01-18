@@ -12,9 +12,9 @@
 -->
  ### Connect with me:
 
-[<img align="left" alt="mehrab-haque" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <br /> 
@@ -35,9 +35,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br /><br /><br />
 
-<img align="left" alt="Mehrab Haque's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehrab-haque&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mehrab-haque&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=saifbashar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://buet-edu-lang-eng.netlify.com/
-[facebook]: https://www.facebook.com/mdmehrab.haque.9/
-[linkedin]:https://www.linkedin.com/in/md-mehrab-haque-1607401a0/
+[website]: https://saifbashar.github.io/
+[facebook]: https://www.facebook.com/yepitssaif/
+[linkedin]:https://www.linkedin.com/in/saifbashar/
