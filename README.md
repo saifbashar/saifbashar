@@ -3,7 +3,7 @@
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
--
+
 <!-- - Usesless Stats:
  👯 I have successfully worked on production level projects regarding android, web and backend.
 currently perfecting my skills with ReactJS and Android MVVM Architecture.
