@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=saifbashar&style=flat-square)
+
 
 
 - 💻 I ~like~ **love** coding
