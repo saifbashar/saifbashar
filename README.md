@@ -71,8 +71,6 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-421-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 173 Contributions in the Year 2021
