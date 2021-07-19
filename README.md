@@ -12,7 +12,8 @@
   
 ![](https://komarev.com/ghpvc/?username=saifbashar&color=green&style=flat-square&label=PROFILE+VIEWS)
 
-  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
   
   
 
@@ -81,79 +82,14 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 
 <br />
 📊 this week i spent my time on:
+<br />
+<br />
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 159 Contributions in the Year 2021
- > 
-> 📦 75.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    86 commits     ████████░░░░░░░░░░░░░░░░░   34.68% 
-🌆 Daytime    91 commits     █████████░░░░░░░░░░░░░░░░   36.69% 
-🌃 Evening    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37% 
-🌙 Night      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       90 commits     █████████░░░░░░░░░░░░░░░░   36.29% 
-Tuesday      82 commits     ████████░░░░░░░░░░░░░░░░░   33.06% 
-Wednesday    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
-Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05%
-
-```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
-
-
- Last Updated on 19/07/2021
 <!--END_SECTION:waka-->
 
 <br/> <br/> 
