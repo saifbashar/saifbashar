@@ -13,6 +13,41 @@
   
   
   
+  
+  
+  
+  
+  <p align="center">
+  
+
+  <a href="https://twitter.com/realonlysaif">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/realonlysaif?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/saifbashar">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/saifbashar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/saifbashar/">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/saifbashar"/></a>
+</p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
 
