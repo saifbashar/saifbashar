@@ -82,6 +82,80 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 159 Contributions in the Year 2021
+ > 
+> 📦 75.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    86 commits     ████████░░░░░░░░░░░░░░░░░   34.82% 
+🌆 Daytime    90 commits     █████████░░░░░░░░░░░░░░░░   36.44% 
+🌃 Evening    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.46% 
+🌙 Night      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.29%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       89 commits     █████████░░░░░░░░░░░░░░░░   36.03% 
+Tuesday      82 commits     ████████░░░░░░░░░░░░░░░░░   33.2% 
+Wednesday    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
+Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.45% 
+Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
+
+
+ Last Updated on 19/07/2021
 <!--END_SECTION:waka-->
 
 <br/> <br/> 
