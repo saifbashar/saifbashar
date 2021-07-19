@@ -1,10 +1,10 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=saifbashar&style=flat-square)
 
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saifbashar/saifbashar/main/code.gif" width="500" height="320" />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://git.io/streak-stats)
 
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saifbashar/saifbashar/main/code.gif" width="500" height="320" />
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
