@@ -65,6 +65,18 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 ✅  Completed 0 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+<br />
+
+📊 this week i spent my time on:
+<br />
+
+<!--START_SECTION:waka-->
+
+
+
+
+
+<!--END_SECTION:waka-->
 
 <div align="center">
   
@@ -81,21 +93,12 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <br />
-📊 this week i spent my time on:
-<br />
-<br />
-<!--START_SECTION:waka-->
 
-
-
-
-
-<!--END_SECTION:waka-->
 
 <br/> <br/> 
   ![trophy](https://github-profile-trophy.vercel.app/?username=saifbashar&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 <div align="center">
   
 <img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
@@ -112,4 +115,4 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br/>
 <br/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
