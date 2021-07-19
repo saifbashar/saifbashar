@@ -42,8 +42,9 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
   
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://git.io/streak-stats)
 
-<br /><br /><br />
 
 <br /><br /><br />
 
