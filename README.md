@@ -68,12 +68,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
   
 
 
-<br /><br /><br />
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saifbashar)](https://github.com/saifbashar)
-
-<br /><br /><br />
+<br />
 # Todoist Stats
 
 <!-- TODO-IST:START -->
