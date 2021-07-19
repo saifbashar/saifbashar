@@ -5,13 +5,13 @@
 
   <a href="https://github.com/saifbashar/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 
+
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saifbashar/saifbashar/main/code.gif" width="500" height="320" />
 
-<p>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-</p>
-
   
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
   
   
   
