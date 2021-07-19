@@ -84,7 +84,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifbashar&theme=synthwave)](https://github.com/saifbashar)
   </div>
   
-<br /><br /><br />
+<br /><br />
 
 
 
@@ -94,10 +94,8 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-
-<br /><br /><br />
-
+<br />
+<br />
 
 <div align="center">
   
