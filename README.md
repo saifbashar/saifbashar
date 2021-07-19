@@ -12,7 +12,7 @@
   
 ![](https://komarev.com/ghpvc/?username=saifbashar&color=green&style=flat-square&label=PROFILE+VIEWS)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
   
   
@@ -109,5 +109,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 [website]: https://saifbashar.wordpress.com/
 [facebook]: https://www.facebook.com/yepitssaif/
 [linkedin]:https://www.linkedin.com/in/saifbashar/
+<br/>
+<br/>
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
