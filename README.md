@@ -56,6 +56,8 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://git.io/streak-stats)
+
 <br /><br /><br />
 <img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=saifbashar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -65,4 +67,4 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 [linkedin]:https://www.linkedin.com/in/saifbashar/
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://git.io/streak-stats)
+
