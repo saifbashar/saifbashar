@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=saifbashar&style=flat-square)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://git.io/streak-stats)
+
 
 
 - 💻 I ~like~ **love** coding
