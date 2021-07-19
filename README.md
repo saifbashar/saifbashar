@@ -17,7 +17,7 @@
   
 
 - 💻 I ~like~ **love** coding
-- 
+- ⚡ Fun Fact: I ~like~ **love** to Travelling.
 - 🏅 Number of times I was asked to hack a FB : 2
 - 📫 Mail: saifbashar2021@gmail.com
 
