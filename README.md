@@ -90,6 +90,13 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<br /><br /><br />
+
+
 <div align="center">
   
 <img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
