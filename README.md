@@ -89,11 +89,11 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br /><br /><br />
 
 
-<img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
 
-<div align="right">
+
+<div align="center">
   
-
+<img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=saifbashar&count_private=true&show_icons=true)](https://github.com/saifbashar)
   </div>
 
