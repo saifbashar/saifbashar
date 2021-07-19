@@ -43,7 +43,6 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 
   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://git.io/streak-stats)
 
 
 <br /><br /><br />
@@ -64,3 +63,6 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 [website]: https://saifbashar.wordpress.com/
 [facebook]: https://www.facebook.com/yepitssaif/
 [linkedin]:https://www.linkedin.com/in/saifbashar/
+
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://git.io/streak-stats)
