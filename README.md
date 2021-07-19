@@ -82,6 +82,8 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 
 <div>
   
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifbashar&theme=synthwave)](https://github.com/saifbashar)
   </div>
   
 <br /><br /><br />
