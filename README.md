@@ -17,7 +17,7 @@
   
 
 - 💻 I ~like~ **love** coding
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71371&lines=%F0%9F%8E%AF+2021+Goals%3A+JavaScript%2C+React.Js%2C+mongoDB)](https://git.io/typing-svg)
+- 
 - 🏅 Number of times I was asked to hack a FB : 2
 - 📫 Mail: saifbashar2021@gmail.com
 
@@ -83,6 +83,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=saifbashar&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=saifbashar&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 <br />
 
 <div align="center">
