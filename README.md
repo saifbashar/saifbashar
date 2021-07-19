@@ -33,12 +33,13 @@
   
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
-
+- 👯 I’m looking to collaborate on opensource and group projects.
+- 🏅 Number of times I was asked to hack a FB : 2
+- 📫 Mail: saifbashar2021@gmail.com
 <!-- - Usesless Stats:
  👯 I have successfully worked on production level projects regarding android, web and backend.
 currently perfecting my skills with ReactJS and Android MVVM Architecture.
-- 👯 I’m looking to collaborate on opensource and group projects.
-- 🏅 Number of times I was asked to hack a FB : 3
+
 
 -->
  ### Connect with me:
