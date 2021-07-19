@@ -8,7 +8,6 @@
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saifbashar/saifbashar/main/code.gif" width="500" height="320" />
 
-![](https://komarev.com/ghpvc/?username=saifbashar&style=flat-square)
   
   
   
@@ -18,14 +17,10 @@
   
   
   <p align="center">
+  ![](https://komarev.com/ghpvc/?username=saifbashar&style=flat-square)
   
 
-  <a href="https://twitter.com/realonlysaif">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/realonlysaif?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/saifbashar">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/saifbashar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/saifbashar/">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/saifbashar"/></a>
+  
 </p>
   
   
