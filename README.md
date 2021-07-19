@@ -80,8 +80,9 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifbashar&theme=synthwave)](https://github.com/saifbashar)
+<div>
+  
+  </div>
   
 <br /><br /><br />
 <img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
