@@ -31,7 +31,6 @@
   
   
   
-  
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
 
@@ -106,4 +105,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 [linkedin]:https://www.linkedin.com/in/saifbashar/
 
 
+
+
+![](https://hit.yhype.me/github/profile?user_id=60818905)
 
