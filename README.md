@@ -10,11 +10,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saifbashar/saifbashar/main/code.gif" width="500" height="320" />
 
   
-![](https://komarev.com/ghpvc/?username=saifbashar&color=green)
+![](https://komarev.com/ghpvc/?username=saifbashar&color=green&style=for-the-badge)
 
-
-
-<img src="https://img.shields.io/github/followers/saifbashar?style=for-the-badge">
   
   
   
