@@ -91,6 +91,9 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
