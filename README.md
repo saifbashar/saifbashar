@@ -17,7 +17,7 @@
   
 
 - 💻 I ~like~ **love** coding
-- 🎯 2021 Goals: JavaScript, React.Js, mongoDB.
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71371&lines=%F0%9F%8E%AF+2021+Goals%3A+JavaScript%2C+React.Js%2C+mongoDB)](https://git.io/typing-svg)
 - 🏅 Number of times I was asked to hack a FB : 2
 - 📫 Mail: saifbashar2021@gmail.com
 
