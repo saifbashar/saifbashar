@@ -81,7 +81,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <!-- TODO-IST:END -->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saifbashar&hide_border=true)](https://github.com/saifbashar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifbashar&theme=synthwave)](https://git.io/streak-stats)
   
 <br /><br /><br />
 <img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
