@@ -7,20 +7,10 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saifbashar/saifbashar/main/code.gif" width="500" height="320" />
 
-  
-  
-  
-  
-  
-  
-  
-  
-  <p align="center">
-  ![](https://komarev.com/ghpvc/?username=saifbashar&style=flat-square)
-  
-
-  
+<p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </p>
+
   
   
   
