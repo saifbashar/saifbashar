@@ -73,7 +73,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 168 Contributions in the Year 2021
+> 🏆 159 Contributions in the Year 2021
  > 
 > 📦 75.7 kB Used in Github's Storage 
  > 
