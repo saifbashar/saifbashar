@@ -87,7 +87,7 @@ No Activity tracked this Week
 <br />
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=saifbashar&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=saifbashar&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
 <div align="center">
