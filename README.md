@@ -158,7 +158,7 @@ C++                      1 repo              █░░░░░░░░░░�
 <div align="center">
   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifbashar&theme=synthwave)](https://github.com/saifbashar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifbashar&theme=synthwave)]
   </div>
   
 <br /><br />
@@ -169,7 +169,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
   
 <img align="left" alt="Saif Bashar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saifbashar&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=saifbashar&count_private=true&show_icons=true)](https://github.com/saifbashar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=saifbashar&count_private=true&show_icons=true)]
   </div>
 
   
