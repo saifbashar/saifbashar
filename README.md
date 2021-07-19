@@ -75,89 +75,16 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 
 
 
+
+
+<br />
+
+<br />
 📊 this week i spent my time on:
-
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 159 Contributions in the Year 2021
- > 
-> 📦 75.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    86 commits     ████████░░░░░░░░░░░░░░░░░   34.96% 
-🌆 Daytime    89 commits     █████████░░░░░░░░░░░░░░░░   36.18% 
-🌃 Evening    53 commits     █████░░░░░░░░░░░░░░░░░░░░   21.54% 
-🌙 Night      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       88 commits     █████████░░░░░░░░░░░░░░░░   35.77% 
-Tuesday      82 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-Wednesday    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.35% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
-Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
-Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.1%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   38.46% 
-HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
-
-
- Last Updated on 19/07/2021
 <!--END_SECTION:waka-->
-<br />
 
-<br />
-
-
+<br/> <br/> 
   ![trophy](https://github-profile-trophy.vercel.app/?username=saifbashar&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 
@@ -174,4 +101,5 @@ C++                      1 repo              ██░░░░░░░░░�
 [website]: https://saifbashar.wordpress.com/
 [facebook]: https://www.facebook.com/yepitssaif/
 [linkedin]:https://www.linkedin.com/in/saifbashar/
+
 
