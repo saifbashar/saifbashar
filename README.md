@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/saifbashar/saifbashar/main/code.gif" width="500" height="320" />
 
   
-![](https://komarev.com/ghpvc/?username=saifbashar&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=saifbashar&color=green&style=flat-square&label=PROFILE+VIEWS)
 
   
   
