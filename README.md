@@ -60,7 +60,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  373 Karma Points           
+🏆  473 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
