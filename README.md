@@ -71,11 +71,13 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-443-blue)
+
 **🐱 My Github Data** 
 
 > 🏆 203 Contributions in the Year 2021
  > 
-> 📦 121.8 kB Used in Github's Storage 
+> 📦 121.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -155,7 +157,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
 
 <div align="center">
