@@ -61,9 +61,9 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 
 <!-- TODO-IST:START -->
 🏆  473 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1 tasks so far           
-⏳  Longest streak is 0 days
+🌸  Completed 5 tasks today           
+✅  Completed 6 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 <br />
 
