@@ -71,8 +71,6 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 315 Contributions in the Year 2021
@@ -114,24 +112,16 @@ Sunday       57 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    7 hrs 19 mins       ████████████████░░░░░░░░░   67.11% 
-JavaScript               3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   30.18% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           7 hrs 15 mins       ████████████████░░░░░░░░░   66.39% 
-VS Code                  3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.61%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 15 mins       ████████████████░░░░░░░░░   66.39% 
-cars                     3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.93% 
-car-max-server           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               7 hrs 15 mins       ████████████████░░░░░░░░░   66.39% 
-Windows                  3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.61%
+No Activity Tracked This Week
 
 ```
 
