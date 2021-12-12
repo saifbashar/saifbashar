@@ -71,7 +71,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2053%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,16 +114,20 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    39 hrs 5 mins       ████████████████████████░   98.44% 
+C++                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           39 hrs 5 mins       ████████████████████████░   98.44% 
+Sublime Text             37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          39 hrs 5 mins       ████████████████████████░   98.44% 
+C++ Competetion          37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               39 hrs 5 mins       ████████████████████████░   98.44% 
+Windows                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 ```
 
