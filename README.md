@@ -114,20 +114,16 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs               ████████████████████░░░░░   80.61% 
-C++                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.39%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           2 hrs               ████████████████████░░░░░   80.61% 
-Sublime Text             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.39%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs               ████████████████████░░░░░   80.61% 
-C++ Competetion          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.39%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               2 hrs               ████████████████████░░░░░   80.61% 
-Windows                  28 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.39%
+No Activity Tracked This Week
 
 ```
 
@@ -148,7 +144,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 18:46:26 UTC
+ Last Updated on 29/01/2022 18:51:13 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
