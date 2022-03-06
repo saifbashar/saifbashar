@@ -71,7 +71,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,18 +114,18 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    69 hrs 34 mins      █████████████████████████   99.99% 
+Other                    47 hrs 49 mins      █████████████████████████   99.99% 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-Unknown Editor           69 hrs 34 mins      █████████████████████████   99.99% 
+Unknown Editor           47 hrs 49 mins      █████████████████████████   99.99% 
 Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🐱‍💻 Projects: 
-Unknown Project          69 hrs 35 mins      █████████████████████████   100.0%
+Unknown Project          47 hrs 50 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               69 hrs 34 mins      █████████████████████████   99.99% 
+Unknown OS               47 hrs 49 mins      █████████████████████████   99.99% 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
@@ -147,7 +147,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/03/2022 18:44:32 UTC
+ Last Updated on 06/03/2022 18:47:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
