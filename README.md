@@ -71,7 +71,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2046%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,19 +114,16 @@ Sunday       64 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-C++                      4 hrs 8 mins        ██████████████████████░░░   90.85% 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             4 hrs 8 mins        ██████████████████████░░░   90.85% 
-Unknown Editor           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 33 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 8 mins        ██████████████████████░░░   90.85% 
-Unknown OS               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.15%
+No Activity Tracked This Week
 
 ```
 
@@ -147,7 +144,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/03/2022 19:11:44 UTC
+ Last Updated on 19/03/2022 18:45:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
