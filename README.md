@@ -114,22 +114,16 @@ Sunday       54 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs               ███████████████████████░░   94.29% 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
-Sublime Text Config      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           2 hrs               ███████████████████████░░   94.29% 
-Sublime Text             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs               ███████████████████████░░   94.46% 
-C++ Competetion          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.54%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               2 hrs               ███████████████████████░░   94.29% 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+No Activity Tracked This Week
 
 ```
 
@@ -150,7 +144,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/05/2022 18:48:50 UTC
+ Last Updated on 03/05/2022 18:49:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
