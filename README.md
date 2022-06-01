@@ -71,9 +71,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,22 +114,16 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    4 hrs 14 mins       ███████████████████░░░░░░   78.62% 
-JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.38%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          4 hrs 14 mins       ███████████████████░░░░░░   78.62% 
-VS Code                  1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.38%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 14 mins       ███████████████████░░░░░░   78.62% 
-class2                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-planet-app               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
-my-app                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               4 hrs 14 mins       ███████████████████░░░░░░   78.62% 
-Windows                  1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.38%
+No Activity Tracked This Week
 
 ```
 
@@ -152,7 +144,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 18:52:03 UTC
+ Last Updated on 01/06/2022 18:54:34 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
