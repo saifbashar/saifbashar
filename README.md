@@ -71,7 +71,7 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,16 +114,16 @@ Sunday       27 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    4 hrs               █████████████████████████   100.0%
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-Google Calendar          4 hrs               █████████████████████████   100.0%
+Google Calendar          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs               █████████████████████████   100.0%
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Unknown OS               4 hrs               █████████████████████████   100.0%
+Unknown OS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -144,7 +144,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2022 18:54:21 UTC
+ Last Updated on 13/08/2022 18:49:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
