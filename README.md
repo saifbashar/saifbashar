@@ -71,7 +71,9 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,52 +87,6 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-🌆 Daytime    36 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-🌃 Evening    65 commits     ███████████░░░░░░░░░░░░░░   46.43% 
-🌙 Night      29 commits     █████░░░░░░░░░░░░░░░░░░░░   20.71%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29% 
-Tuesday      32 commits     █████░░░░░░░░░░░░░░░░░░░░   22.86% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Friday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Saturday     26 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-Sunday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Other                    137 hrs 14 mins     █████████████████████████   99.9% 
-C++                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-🔥 Editors: 
-Google Calendar          137 hrs 14 mins     █████████████████████████   99.9% 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-🐱‍💻 Projects: 
-Unknown Project          137 hrs 14 mins     █████████████████████████   99.9% 
-1733                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-💻 Operating System: 
-Unknown OS               137 hrs 14 mins     █████████████████████████   99.9% 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -148,7 +104,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/09/2022 18:53:22 UTC
+ Last Updated on 26/09/2022 18:57:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
