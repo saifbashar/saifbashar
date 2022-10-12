@@ -71,17 +71,19 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C224%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 77 Contributions in the Year 2022
+> 🏆 76 Contributions in the Year 2022
  > 
-> 📦 351.9 kB Used in GitHub's Storage 
+> 📦 351.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 72 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -148,7 +150,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 19:03:57 UTC
+ Last Updated on 12/10/2022 19:01:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
