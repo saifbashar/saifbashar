@@ -71,19 +71,21 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 93 Contributions in the Year 2022
+> 🏆 82 Contributions in the Year 2022
  > 
-> 📦 443.3 kB Used in GitHub's Storage 
+> 📦 455.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 66 Public Repositories 
+> 📜 40 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -137,11 +139,11 @@ Unknown OS               2 hrs               ██░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            ███████████████░░░░░░░░░░   63.04% 
-HTML                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91% 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+JavaScript               29 repos            ████████████████░░░░░░░░░   64.44% 
+HTML                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44% 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 ```
 
@@ -151,7 +153,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/saifbashar/saifbashar/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 18:47:39 UTC
+ Last Updated on 06/11/2022 18:46:52 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
