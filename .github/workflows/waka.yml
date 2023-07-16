@@ -31,3 +31,4 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_LINES_OF_CODE: "True" 
           COMMIT_BY_ME: "True"
+SHOW_SHORT_INFO: "True"
