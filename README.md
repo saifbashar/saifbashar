@@ -73,8 +73,6 @@ currently perfecting my skills with ReactJS and Android MVVM Architecture.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C509%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 482.2 kB Used in GitHub's Storage 
@@ -143,7 +141,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/saifbashar/saifbashar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2023 19:16:36 UTC
+ Last Updated on 16/07/2023 19:17:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
