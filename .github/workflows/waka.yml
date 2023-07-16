@@ -32,3 +32,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True" 
           COMMIT_BY_ME: "True"
 SHOW_SHORT_INFO: "True"
+COMMIT_MESSAGE : "zzz"
